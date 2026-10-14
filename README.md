@@ -1,12 +1,16 @@
 # 🛋️ L.Y.A.A.D. (ল্যাদ)
 ### **L**ocalized **Y**ield **A**rchident **A**gentic **D**elegation Framework
 
+Localized Yield Archident Agentic Delegation Framework
+
 [![License: MIT](https://shields.io)](https://opensource.org)
+
 [![Local LLM Optimized: Qwen-2.5-Coder-7B](https://shields.io)](https://github.com)
+
 [![Security Scan: Semgrep-OSS](https://shields.io)](https://semgrep.dev)
 
+> "True engineering excellence is driven by the absolute pursuit of absolute comfort."
 
-> **"True engineering excellence is driven by the absolute pursuit of absolute comfort."**
 
 ---
 
