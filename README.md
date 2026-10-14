@@ -3,7 +3,13 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Local LLM Optimized: Qwen-2.5-Coder-7B](https://img.shields.io/badge/Local%20LLM%20Optimized-Qwen--2.5--Coder--7B-orange.svg)
+![Ollama Inference](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Security Scan: Semgrep-OSS](https://img.shields.io/badge/Security%20Scan-Semgrep--OSS-green.svg)
+![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)
+![Hardware Profile](https://img.shields.io/badge/Hardware%20Profile-8GB%20RAM%20Optimized-red.svg)
+![Architecture](https://img.shields.io/badge/Architecture-Zero--Trust%20Sandboxed-blueviolet.svg)
+![Config Schema](https://img.shields.io/badge/Config%20Schema-JSON%20%2F%20MD-darkgreen.svg)
+![Maintenance](https://img.shields.io/badge/Maintenance-Active-brightgreen.svg)
 
 
 > "True engineering excellence is driven by the absolute pursuit of absolute comfort."
