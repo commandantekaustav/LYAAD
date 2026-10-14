@@ -1,9 +1,9 @@
 # 🛋️ L.Y.A.A.D. (ল্যাদ)
 ### **L**ocalized **Y**ield **A**rchident **A**gentic **D**elegation Framework
 
-![License: MIT](https://shields.io)
-![Local LLM Optimized: Qwen-2.5-Coder-7B](https://shields.io)
-![Security Scan: Semgrep-OSS](https://shields.io)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Local LLM Optimized: Qwen-2.5-Coder-7B](https://img.shields.io/badge/Local%20LLM%20Optimized-Qwen--2.5--Coder--7B-orange.svg)
+![Security Scan: Semgrep-OSS](https://img.shields.io/badge/Security%20Scan-Semgrep--OSS-green.svg)
 
 
 > "True engineering excellence is driven by the absolute pursuit of absolute comfort."
